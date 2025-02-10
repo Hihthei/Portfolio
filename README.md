@@ -57,5 +57,8 @@ Le portfolio doit être complet, esthétique et intuitif pour permettre un conta
 
 ## Charte graphique
 * Les couleurs principales vont-être : un bleu cyan (#5AC9F5), un bleu (#2098DF), un vert turquoise (#0D6352) et un marron (#3E1206)
+   -> réalité : Le site est plutôt bleu clair (9FC7ED) avec certaines touches foncées (0B2986)
 * Style de site recherché : [enricodeiana.com](https://www.enricodeiana.design/), [cr7](https://www.cristianoronaldo.com/#cr7)
-* 
+* Le style graphique est plutôt néo techno avec un côté rétro pixel art
+* Choix de la typo : https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap
+* Imagerie : Logo des projets et logo open-source
